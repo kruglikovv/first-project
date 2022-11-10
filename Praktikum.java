@@ -1,4 +1,4 @@
-public class Praktikum {
+class Praktikum {
 
 
     void main () {
